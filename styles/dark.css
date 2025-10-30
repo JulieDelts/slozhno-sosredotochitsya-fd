@@ -7,6 +7,6 @@
   --decoration-color: var(--accent-color);
   --button-color: var(--accent-color);
   --decoration-shadow-color: rgba(255, 0, 112, 0.6);
-  --content-section-header-color: var(--background-color);
+  --content-section-header-color: var(--accent-color);
   --description-header-color: var(--background-color);
 }

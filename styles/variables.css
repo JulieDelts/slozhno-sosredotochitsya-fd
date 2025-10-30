@@ -1,10 +1,16 @@
 :root {
-  --main-background-image: url("../images/cover-image-dark.png");
+  --background-image: url("../images/cover-image-dark.png");
   --background-color: #000028;
   --accent-color: #ff0070;
   --main-color: #f1b2ce;
+  --focus-text-color: #db00ff;
+  --decoration-color: var(--accent-color);
+  --button-color: var(--accent-color);
+  --decoration-shadow-color: rgba(255, 0, 112, 0.6);
   --main-font-family: "IBM Plex mono";
   --main-font-size: 1.125rem;
   --regular-font-weight: 400;
   --bold-font-weight: 700;
+  --content-section-header-color: var(--background-color);
+  --description-header-color: var(--background-color);
 }

@@ -9,6 +9,7 @@
   --decoration-shadow-color: rgba(53, 52, 48, 0.6);
   --content-section-header-color: var(--main-color);
   --description-header-color: var(--main-color);
+  --gallery-text-color: var(--main-color);
 }
 
 .theme-light .rec-label {

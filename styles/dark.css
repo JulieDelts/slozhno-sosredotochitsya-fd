@@ -9,4 +9,5 @@
   --decoration-shadow-color: rgba(255, 0, 112, 0.6);
   --content-section-header-color: var(--accent-color);
   --description-header-color: var(--background-color);
+  --gallery-text-color: var(--background-color);
 }

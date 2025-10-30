@@ -9,6 +9,7 @@
   --decoration-shadow-color: rgba(255, 0, 112, 0.6);
   --main-font-family: "IBM Plex mono";
   --main-font-size: 1.125rem;
+  --gallery-text-color: var(--background-color);
   --regular-font-weight: 400;
   --bold-font-weight: 700;
   --content-section-header-color: var(--background-color);

@@ -11,3 +11,19 @@
   --description-header-color: var(--background-color);
   --gallery-text-color: var(--background-color);
 }
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-image: url("../images/cover-image-dark.png");
+    --background-color: #000028;
+    --focus-text-color: #db00ff;
+    --accent-color: #ff0070;
+    --main-color: #f1b2ce;
+    --decoration-color: var(--accent-color);
+    --button-color: var(--accent-color);
+    --decoration-shadow-color: rgba(255, 0, 112, 0.6);
+    --content-section-header-color: var(--accent-color);
+    --description-header-color: var(--background-color);
+    --gallery-text-color: var(--background-color);
+  }
+}

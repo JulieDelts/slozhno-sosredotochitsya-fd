@@ -12,6 +12,10 @@
   --gallery-text-color: var(--main-color);
 }
 
+.theme-light .rec-label {
+  display: none;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     --background-image: url("../images/cover-image-light.png");
@@ -27,7 +31,7 @@
     --gallery-text-color: var(--main-color);
   }
 
-  .rec-label {
+  .theme-auto .rec-label {
     display: none;
   }
 }

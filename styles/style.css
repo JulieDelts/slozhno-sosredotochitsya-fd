@@ -131,7 +131,7 @@
   margin-block-start: 30px;
   padding: clamp(10px, 2.5vw, 20px);
   display: grid;
-  gap: 50px;
+  gap: 54px;
 }
 
 .content-section {
@@ -266,7 +266,7 @@
   }
 
   .content {
-    gap: 80px;
+    gap: 82px;
     margin-block: 41px;
   }
 
